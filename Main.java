@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-    var unaPersona = new Persona();
+    Persona unaPersona = new Persona();
     unaPersona.setEdad(50);
     System.out.println(unaPersona.getEdad());
 
